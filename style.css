@@ -1,0 +1,21 @@
+.body_background
+{
+    background-image: url("background.png");
+    background-position: center;
+    background-size: cover;
+}
+h1
+{
+    color:black;
+    font-size: 40px;
+    font-family: cursive;
+}
+#myCanvas
+{
+    background-color: white;
+    border-style: ridge;
+}
+span
+{
+font-size: 20px;
+}
